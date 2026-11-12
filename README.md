@@ -15,9 +15,11 @@ A hands-on portfolio documenting practical work completed during my AWS & DevOps
 |---|---|---|
 | 01 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/README.md) |
 
-## LinkedIn Series
+## LinkedIn Posts
 
-- [Day 1 – Cloud Computing Basics and AWS Pricing](https://lnkd.in/p/gR9t_mtx)
+- [Day 1 – Cloud Computing Basics and AWS Pricing](LinkedIn_Posts/Day_01.md)
+- [Day 1 post copy](LinkedIn_Posts/Day_01_Post.md)
+- [View published LinkedIn post](https://lnkd.in/p/gR9t_mtx)
 
 ## Repository Structure
 
@@ -32,7 +34,7 @@ AWS-DevOps-Internship/
 ├── 06_CI_CD_and_Automation/
 ├── 07_Projects_and_Implementations/
 ├── 08_Evidence_and_Resources/
-└── 09_LinkedIn_Series/
+└── LinkedIn_Posts/
 ```
 
 *This repository is updated as internship tasks and practical implementations are completed.*

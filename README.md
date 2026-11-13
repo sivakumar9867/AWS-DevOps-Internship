@@ -33,8 +33,7 @@ AWS-DevOps-Internship/
 ├── 02_AWS_Core_Services/
 │   └── 02_EC2_Web_Server_Deployment_and_File_Transfer/
 │       ├── README.md
-│       ├── AWS_DevOps_EC2_Web_Server_Project_Evidence.pdf
-│       └── evidence/
+│       └── README.md
 ├── LinkedIn_Posts/
 │   ├── Day_01.md
 │   ├── Day_01_Post.md
@@ -43,4 +42,4 @@ AWS-DevOps-Internship/
 └── README.md
 ```
 
-*This repository is updated as internship tasks and practical implementations are completed.*
+*This repository is updated as internship tasks and practical implementations are completed. Day 2's PDF and screenshot evidence are included in the downloadable package but are not yet hosted in this repository.*

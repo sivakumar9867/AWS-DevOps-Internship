@@ -6,4 +6,4 @@ The supporting evidence PDF and screenshots are currently available in the downl
 
 This entry connects the Day 2 internship update with the corresponding implementation notes.
 
-**LinkedIn post:** Add the published post URL here after publishing.
+**Published LinkedIn post:** https://lnkd.in/p/gKSxdrJq

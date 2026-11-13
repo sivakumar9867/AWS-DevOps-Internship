@@ -58,9 +58,22 @@ The webpage was successfully opened in a laptop browser using the instance's pub
 
 **Verification note:** Mobile-browser access was attempted but returned `ERR_CONNECTION_TIMED_OUT`; mobile access is therefore not claimed as verified.
 
-## Evidence
+## Practical Evidence
 
-The Day 2 evidence PDF and ten supporting screenshots are included in the downloadable Day 2 GitHub package. They have not yet been uploaded as binary files to this repository.
+All ten screenshots are uploaded to the [evidence folder](evidence/).
+
+| # | Screenshot | What it documents |
+|---:|---|---|
+| 1 | [EC2 Instance Details](evidence/01_EC2_Instance_Details.png) | Linux EC2 instance configuration |
+| 2 | [Elastic IP Association](evidence/02_Elastic_IP_Association.png) | Elastic IP associated with the instance |
+| 3 | [Security Group Rules](evidence/03_Security_Group_Rules.png) | SSH and HTTP inbound rules |
+| 4 | [SSH Connection](evidence/04_SSH_Connection.png) | Terminal connection to EC2 |
+| 5 | [WinSCP File Transfer](evidence/05_WinSCP_File_Transfer.png) | SFTP transfer from Windows |
+| 6 | [Linux File Verification](evidence/06_Linux_File_Verification.png) | Transferred files on Linux |
+| 7 | [Apache Service Status](evidence/07_Apache_Service_Status.png) | Apache service running |
+| 8 | [Custom Webpage Deployment](evidence/08_Custom_Webpage_Deployment.png) | Deployed webpage opened in laptop browser |
+| 9 | [EC2 Termination](evidence/09_EC2_Termination.png) | Linux EC2 cleanup |
+| 10 | [Elastic IP Release](evidence/10_Elastic_IP_Release.png) | Elastic IP release |
 
 ## Cleanup
 

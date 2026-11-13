@@ -22,6 +22,7 @@ A hands-on portfolio documenting practical work completed during my AWS & DevOps
 - [Day 1 post copy](LinkedIn_Posts/Day_01_Post.md)
 - [View published Day 1 LinkedIn post](https://lnkd.in/p/gR9t_mtx)
 - [Day 2 – EC2 Web Server Deployment & File Transfer](LinkedIn_Posts/Day_02.md)
+- [View published Day 2 LinkedIn post](https://lnkd.in/p/gKSxdrJq)
 - [Day 2 post copy](LinkedIn_Posts/Day_02_Post.md)
 
 ## Repository Structure

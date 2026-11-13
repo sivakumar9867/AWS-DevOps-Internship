@@ -1,6 +1,6 @@
 # AWS & DevOps Internship
 
-A hands-on portfolio documenting practical work completed during my AWS & DevOps Internship, including cloud infrastructure, AWS services, networking, security, implementation evidence, and internship deliverables.
+A hands-on portfolio documenting practical work completed during my AWS & DevOps Internship, including cloud fundamentals, AWS services, networking, implementation evidence, and internship deliverables.
 
 ## Internship Highlights
 
@@ -14,12 +14,15 @@ A hands-on portfolio documenting practical work completed during my AWS & DevOps
 | Module | Focus | Documentation |
 |---|---|---|
 | 01 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/README.md) |
+| 02 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Core_Services/02_EC2_Web_Server_Deployment_and_File_Transfer/README.md) |
 
 ## LinkedIn Posts
 
 - [Day 1 – Cloud Computing Basics and AWS Pricing](LinkedIn_Posts/Day_01.md)
 - [Day 1 post copy](LinkedIn_Posts/Day_01_Post.md)
-- [View published LinkedIn post](https://lnkd.in/p/gR9t_mtx)
+- [View published Day 1 LinkedIn post](https://lnkd.in/p/gR9t_mtx)
+- [Day 2 – EC2 Web Server Deployment & File Transfer](LinkedIn_Posts/Day_02.md)
+- [Day 2 post copy](LinkedIn_Posts/Day_02_Post.md)
 
 ## Repository Structure
 
@@ -28,13 +31,16 @@ AWS-DevOps-Internship/
 ├── 01_Cloud_Fundamentals/
 │   └── 01_Cloud_Computing_Basics_and_AWS_Pricing/
 ├── 02_AWS_Core_Services/
-├── 03_AWS_Security_and_IAM/
-├── 04_AWS_Networking/
-├── 05_DevOps_Fundamentals/
-├── 06_CI_CD_and_Automation/
-├── 07_Projects_and_Implementations/
-├── 08_Evidence_and_Resources/
-└── LinkedIn_Posts/
+│   └── 02_EC2_Web_Server_Deployment_and_File_Transfer/
+│       ├── README.md
+│       ├── AWS_DevOps_EC2_Web_Server_Project_Evidence.pdf
+│       └── evidence/
+├── LinkedIn_Posts/
+│   ├── Day_01.md
+│   ├── Day_01_Post.md
+│   ├── Day_02.md
+│   └── Day_02_Post.md
+└── README.md
 ```
 
 *This repository is updated as internship tasks and practical implementations are completed.*

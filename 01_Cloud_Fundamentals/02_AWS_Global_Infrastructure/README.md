@@ -79,6 +79,14 @@ Using the Region drop-down at the top right.
 
 Log in to the AWS console, switch the selected Region to Mumbai and then Singapore, and observe that resources are separate in each Region.
 
+## LinkedIn Update
+
+[View the published Day 3 LinkedIn post](https://lnkd.in/p/gGZVW7sc)
+
+## Class Material
+
+The source material for this entry is **B2_Class_3_Notes.pdf** supplied during the internship.
+
 ---
 
 *Documentation prepared from the Class 3 notes supplied for the internship. The topics above reflect the class material; this entry does not claim a practical deployment.*

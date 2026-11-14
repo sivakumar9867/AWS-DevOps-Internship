@@ -28,11 +28,9 @@ A hands-on portfolio documenting practical work completed during my AWS & DevOps
 ```text
 AWS-DevOps-Internship/
 ├── 01_Cloud_Fundamentals/
-│   ├── 01_Cloud_Computing_Basics_and_AWS_Pricing/
-│   │   ├── README.md
-│   │   └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
-│   └── 02_AWS_Global_Infrastructure/
-│       └── README.md
+│   └── 01_Cloud_Computing_Basics_and_AWS_Pricing/
+│       ├── README.md
+│       └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
 ├── 02_AWS_Core_Services/
 │   └── 02_EC2_Web_Server_Deployment_and_File_Transfer/
 │       ├── README.md
@@ -47,6 +45,9 @@ AWS-DevOps-Internship/
 │           ├── 08_Custom_Webpage_Deployment.png
 │           ├── 09_EC2_Termination.png
 │           └── 10_Elastic_IP_Release.png
+├── Day_03_AWS_Global_Infrastructure/
+│   ├── README.md
+│   └── resources/
 ├── LinkedIn_Posts/
 │   ├── Day_01.md
 │   ├── Day_01_Post.md

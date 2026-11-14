@@ -1,6 +1,7 @@
 # Class 3 – AWS Global Infrastructure
 
-**Class date:** 4 November 2026  
+**Internship day:** 3  
+**Class date:** 5 November 2026  
 **Internship:** AWS & DevOps Internship
 
 ## Overview

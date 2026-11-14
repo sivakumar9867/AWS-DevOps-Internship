@@ -85,7 +85,7 @@ Log in to the AWS console, switch the selected Region to Mumbai and then Singapo
 
 ## Class Material
 
-The source material for this entry is **B2_Class_3_Notes.pdf** supplied during the internship.
+The original class notes and prepared learning PDF are available in the [resources folder](resources/).
 
 ---
 

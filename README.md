@@ -11,11 +11,11 @@ A hands-on portfolio documenting practical work completed during my AWS & DevOps
 
 ## Internship Modules
 
-| Day | Focus | Documentation | Evidence |
+| Day | Focus | Documentation | Evidence / Resources |
 |---|---|---|---|
 | 1 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/README.md) | [Module files](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/) |
-| 2 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Core_Services/02_EC2_Web_Server_Deployment_and_File_Transfer/README.md) | [10 screenshots](02_AWS_Core_Services/02_EC2_Web_Server_Deployment_and_File_Transfer/evidence/) |
-| 3 | AWS Global Infrastructure | [View Day 3](Day_03_AWS_Global_Infrastructure/README.md) | [Day 3 resources](Day_03_AWS_Global_Infrastructure/resources/) |
+| 2 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Services/EC2_Web_Server_Deployment/README.md) | [10 screenshots](02_AWS_Services/EC2_Web_Server_Deployment/evidence/) |
+| 3 | AWS Global Infrastructure | [View Day 3](03_AWS_Infrastructure/Global_Infrastructure/README.md) | [Class notes and PDF](03_AWS_Infrastructure/Global_Infrastructure/resources/) |
 
 ## LinkedIn Posts
 
@@ -31,8 +31,8 @@ AWS-DevOps-Internship/
 │   └── 01_Cloud_Computing_Basics_and_AWS_Pricing/
 │       ├── README.md
 │       └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
-├── 02_AWS_Core_Services/
-│   └── 02_EC2_Web_Server_Deployment_and_File_Transfer/
+├── 02_AWS_Services/
+│   └── EC2_Web_Server_Deployment/
 │       ├── README.md
 │       └── evidence/
 │           ├── 01_EC2_Instance_Details.png
@@ -45,9 +45,12 @@ AWS-DevOps-Internship/
 │           ├── 08_Custom_Webpage_Deployment.png
 │           ├── 09_EC2_Termination.png
 │           └── 10_Elastic_IP_Release.png
-├── Day_03_AWS_Global_Infrastructure/
-│   ├── README.md
-│   └── resources/
+├── 03_AWS_Infrastructure/
+│   └── Global_Infrastructure/
+│       ├── README.md
+│       └── resources/
+│           ├── B2_Class_3_Notes.pdf
+│           └── AWS_Global_Infrastructure_Day_3.pdf
 ├── LinkedIn_Posts/
 │   ├── Day_01.md
 │   ├── Day_01_Post.md
@@ -62,7 +65,7 @@ AWS-DevOps-Internship/
 
 Day 2 includes ten practical screenshots documenting EC2 setup, Elastic IP association, security rules, SSH access, SFTP transfer, Linux file verification, Apache status, webpage deployment, and resource cleanup.
 
-Day 3 documentation and supporting PDFs are organized in the separate `Day_03_AWS_Global_Infrastructure/` folder.
+Day 3 includes the original class notes and a prepared PDF covering AWS Regions, Availability Zones, Edge Locations, CloudFront, Region selection, and Free Tier account basics.
 
 ---
 

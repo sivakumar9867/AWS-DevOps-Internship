@@ -1,10 +1,10 @@
 # Day 3 – AWS Global Infrastructure
 
-**Day 3 folder:** [View all Day 3 files and resources](../Day_03_AWS_Global_Infrastructure/)
+**Day 3 folder:** [View all Day 3 files and resources](../03_AWS_Infrastructure/Global_Infrastructure/)
 
-**Day 3 documentation:** [Read the Day 3 README](../Day_03_AWS_Global_Infrastructure/README.md)
+**Day 3 documentation:** [Read the Day 3 README](../03_AWS_Infrastructure/Global_Infrastructure/README.md)
 
-**Resources:** [Open the resources folder](../Day_03_AWS_Global_Infrastructure/resources/)
+**Resources:** [Open the resources folder](../03_AWS_Infrastructure/Global_Infrastructure/resources/)
 
 **LinkedIn post:** [Read the published Day 3 update](https://lnkd.in/p/gGZVW7sc)
 

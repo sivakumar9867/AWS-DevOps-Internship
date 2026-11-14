@@ -43,13 +43,13 @@ AWS-DevOps-Internship/
 
 ## Session Notes
 
-Day 1 (3 November 2026) includes a session README and class PDF covering cloud computing fundamentals, IaaS/PaaS/SaaS, AWS service categories, and AWS pricing basics.
+Day 1 covers cloud computing fundamentals, IaaS/PaaS/SaaS, AWS service categories, and AWS pricing basics.
 
-Day 2 (4 November 2026) includes practical screenshots documenting EC2 setup, security rules, SSH access, file transfer, Apache status, webpage deployment, and resource cleanup.
+Day 2 documents the EC2 practical, including instance setup, security rules, SSH access, file transfer, Apache, webpage deployment, and resource cleanup.
 
-Day 3 (5 November 2026) includes class notes and a PDF covering AWS global infrastructure.
+Day 3 covers AWS global infrastructure, including Regions, Availability Zones, and Edge Locations.
 
-Day 7 (9 November 2026, Class 4) contains learning documentation and the IAM study PDF only. No hands-on lab or implementation evidence is recorded for this session.
+Day 7 documents IAM concepts and the study material. No hands-on lab or implementation evidence is recorded for this session.
 
 ---
 

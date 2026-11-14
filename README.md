@@ -6,10 +6,10 @@ A learning and project portfolio documenting topics covered and practical work c
 
 | Day | Focus | Documentation | Resources |
 |---|---|---|---|
-| 1 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/README.md) | [Module files](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/) |
-| 2 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Services/EC2_Web_Server_Deployment/README.md) | [10 screenshots](02_AWS_Services/EC2_Web_Server_Deployment/evidence/) |
-| 3 | AWS Global Infrastructure | [View Day 3](03_AWS_Infrastructure/Global_Infrastructure/README.md) | [Class notes and PDF](03_AWS_Infrastructure/Global_Infrastructure/resources/) |
-| 7 | IAM – Identity and Access Management (Class 4) | [View Day 7](07_AWS_Security/IAM_Identity_and_Access_Management/README.md) | [Study PDF](07_AWS_Security/IAM_Identity_and_Access_Management/resources/) |
+| 1 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/README.md) | [Class PDF](01_Cloud_Fundamentals/Cloud_Computing_Basics_and_AWS_Pricing.pdf) |
+| 2 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Services/README.md) | [10 screenshots](02_AWS_Services/evidence/) |
+| 3 | AWS Global Infrastructure | [View Day 3](03_AWS_Infrastructure/README.md) | [Class notes and PDF](03_AWS_Infrastructure/resources/) |
+| 7 | IAM – Identity and Access Management (Class 4) | [View Day 7](07_AWS_Security/README.md) | [Study PDF](07_AWS_Security/IAM_Day_7_Class_4.pdf) |
 
 ## LinkedIn Posts
 
@@ -23,22 +23,20 @@ A learning and project portfolio documenting topics covered and practical work c
 ```text
 AWS-DevOps-Internship/
 ├── 01_Cloud_Fundamentals/
-│   └── 01_Cloud_Computing_Basics_and_AWS_Pricing/
-│       ├── README.md
-│       └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
+│   ├── README.md
+│   └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
 ├── 02_AWS_Services/
-│   └── EC2_Web_Server_Deployment/
-│       ├── README.md
-│       └── evidence/
+│   ├── README.md
+│   └── evidence/
 ├── 03_AWS_Infrastructure/
-│   └── Global_Infrastructure/
+│   ├── README.md
+│   └── resources/
 │       ├── README.md
-│       └── resources/
+│       ├── B2_Class_3_Notes.pdf
+│       └── AWS_Global_Infrastructure_Day_3.pdf
 ├── 07_AWS_Security/
-│   └── IAM_Identity_and_Access_Management/
-│       ├── README.md
-│       └── resources/
-│           └── IAM_Day_7_Class_4.pdf
+│   ├── README.md
+│   └── IAM_Day_7_Class_4.pdf
 ├── LinkedIn_Posts/
 └── README.md
 ```

@@ -1,4 +1,4 @@
-# Day 4 – IAM Quick Quiz
+# Day 7 – IAM Quick Quiz
 
 Questions are based on the supplied Class 4 notes.
 

@@ -1,4 +1,4 @@
-# Day 4 Practical – IAM User, Group and EC2 Read-Only Access
+# Day 7 Practical – IAM User, Group and EC2 Read-Only Access
 
 ## Objective
 
@@ -11,7 +11,7 @@ Follow the Class 4 home-practice task: create an IAM user and group, grant EC2 r
 - Sign in to the AWS Management Console using your authorized account.
 - Keep the root account credentials private.
 - If this is a personal account, ensure root MFA is enabled.
-- Use a unique lab username, for example `day4-ec2-readonly-user`.
+- Use a unique lab username, for example `day7-ec2-readonly-user`.
 
 ## Part A – Create a customer-managed read-only policy
 
@@ -33,7 +33,7 @@ Follow the Class 4 home-practice task: create an IAM user and group, grant EC2 r
 }
 ```
 
-4. Review the policy and name it `Day4-EC2-ReadOnly`.
+4. Review the policy and name it `Day7-EC2-ReadOnly`.
 5. Create the policy.
 
 This example grants EC2 `Describe*` actions. It is a practical interpretation of EC2 read access for this exercise, not a claim that it covers every possible read operation in every AWS service.
@@ -41,16 +41,16 @@ This example grants EC2 `Describe*` actions. It is a practical interpretation of
 ## Part B – Create an IAM group and attach the policy
 
 1. Open **IAM → User groups → Create group**.
-2. Name the group `Day4-EC2-Readers`.
-3. Attach `Day4-EC2-ReadOnly`.
+2. Name the group `Day7-EC2-Readers`.
+3. Attach `Day7-EC2-ReadOnly`.
 4. Create the group.
 
 ## Part C – Create the IAM user
 
 1. Open **IAM → Users → Create user**.
-2. Enter `day4-ec2-readonly-user`.
+2. Enter `day7-ec2-readonly-user`.
 3. For console practice, enable AWS Management Console access and set a strong temporary password.
-4. Add the user to `Day4-EC2-Readers`.
+4. Add the user to `Day7-EC2-Readers`.
 5. Complete creation.
 6. Store any sign-in details securely. Never add them to GitHub or screenshots.
 
@@ -95,8 +95,8 @@ Do not delete or modify the root user or any pre-existing IAM identities/policie
 
 ## Completion checklist
 
-- [ ] Created `Day4-EC2-ReadOnly` policy.
-- [ ] Created `Day4-EC2-Readers` group.
+- [ ] Created `Day7-EC2-ReadOnly` policy.
+- [ ] Created `Day7-EC2-Readers` group.
 - [ ] Attached the policy to the group.
 - [ ] Created the test IAM user and added it to the group.
 - [ ] Confirmed EC2 read/describe access.

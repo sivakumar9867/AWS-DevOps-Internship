@@ -1,8 +1,8 @@
-# AWS & DevOps Internship | Day 4 – IAM: Identity and Access Management
+# AWS & DevOps Internship | Day 7 (Class 4) – IAM: Identity and Access Management
 
 Continuing my AWS & DevOps Internship learning journey.
 
-Today's class focused on AWS Identity and Access Management (IAM) and how access to AWS resources can be controlled.
+Today's Class 4 session focused on AWS Identity and Access Management (IAM) and how access to AWS resources can be controlled.
 
 **Key concepts covered:**
 - Authentication, Authorization, and Accountability

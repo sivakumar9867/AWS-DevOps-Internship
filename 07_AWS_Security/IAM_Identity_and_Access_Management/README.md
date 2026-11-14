@@ -42,7 +42,7 @@ Grant only the permissions required to perform a specific task. The class discus
 
 ## Study Resource
 
-- [IAM – Day 7, Class 4 PDF](resources/IAM_Identity_and_Access_Management_Day_7.pdf)
+- [IAM – Day 7, Class 4 PDF](resources/IAM_Day_7_Class_4.pdf)
 
 ---
 

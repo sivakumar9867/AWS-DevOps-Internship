@@ -1,5 +1,6 @@
 # Day 2 – EC2 Web Server Deployment and File Transfer
 
+**Class date:** 4 November 2026  
 **Internship:** AWS & DevOps Internship  
 **Practical environment:** AWS Console, Amazon EC2, Amazon Linux 2023, Apache HTTP Server, SSH, WinSCP (SFTP)
 
@@ -94,4 +95,4 @@ After evidence collection:
 
 ---
 
-*This documentation records the practical tasks performed during the Day 2 internship session.*
+*This documentation records the practical tasks performed during the Day 2 internship session on 4 November 2026.*

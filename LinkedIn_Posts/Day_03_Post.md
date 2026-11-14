@@ -1,19 +1,30 @@
-# AWS & DevOps Internship | Day 3 – Understanding AWS Global Infrastructure
+# AWS & DevOps Internship | Day 3 – AWS Global Infrastructure
 
-Continuing my learning journey in AWS & DevOps!
+🌐 **Day 3 – AWS Global Infrastructure | AWS & DevOps Internship**
 
-In Class 3, I explored how AWS organizes its global infrastructure to provide reliable, scalable, and low-latency cloud services.
+Continuing my AWS & DevOps Internship journey!
 
-**Key concepts covered:**
+Today's session focused on understanding how AWS organizes its global infrastructure to deliver reliable, scalable, and low-latency cloud services.
 
-- **AWS Regions:** Independent geographical areas where AWS services operate.
-- **Availability Zones (AZs):** Isolated locations within a Region, consisting of one or more data centres. Using multiple AZs helps improve availability and disaster recovery.
-- **Edge Locations:** Locations closer to end users that help deliver content faster through Amazon CloudFront.
-- **Region Selection:** Understanding how user proximity, latency, pricing, service availability, network bandwidth, and compliance influence the choice of an AWS Region.
+📚 **Key Concepts Covered:**
+- 🌍 **AWS Regions** – Understanding geographical locations where AWS services operate.
+- 🏢 **Availability Zones (AZs)** – Learning how multiple isolated zones within a Region support high availability.
+- 📡 **Edge Locations** – Understanding how AWS delivers content closer to end users.
+- ⚡ **Amazon CloudFront** – Exploring content delivery and reduced latency.
+- 🔍 **Region Selection** – Understanding factors such as user proximity, pricing, service availability, network bandwidth, and compliance.
 
-**My key takeaway:**  
-A Region contains multiple Availability Zones, while Edge Locations help deliver content closer to users. Understanding how these components work together is essential when designing reliable cloud infrastructure.
+💡 **Key Learning:**
 
-Looking forward to applying these concepts in upcoming AWS practical sessions.
+Understanding the relationship between Regions, Availability Zones, and Edge Locations is essential for designing reliable and highly available cloud infrastructure.
 
-#AWS #DevOps #AWSInternship #CloudComputing #AmazonCloudFront #CloudInfrastructure #LearningJourney
+📁 **Documentation & Learning Progress:**
+GitHub Repository:
+https://github.com/sivakumar9867/AWS-DevOps-Internship
+
+Looking forward to exploring more AWS services through hands-on practice!
+
+#AWS #DevOps #AWSInternship #CloudComputing #AWSGlobalInfrastructure #AmazonCloudFront #CloudTechnology #LearningJourney
+
+---
+
+**Published LinkedIn post:** https://lnkd.in/p/gGZVW7sc

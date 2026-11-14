@@ -4,12 +4,12 @@ A learning and project portfolio documenting topics covered and practical work c
 
 ## Internship Modules
 
-| Day | Focus | Documentation | Resources |
-|---|---|---|---|
-| 1 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/README.md) | [Class PDF](01_Cloud_Fundamentals/Cloud_Computing_Basics_and_AWS_Pricing.pdf) |
-| 2 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Services/README.md) | [10 screenshots](02_AWS_Services/evidence/) |
-| 3 | AWS Global Infrastructure | [View Day 3](03_AWS_Infrastructure/README.md) | [Class notes and PDF](03_AWS_Infrastructure/resources/) |
-| 7 | IAM – Identity and Access Management (Class 4) | [View Day 7](07_AWS_Security/README.md) | [Study PDF](07_AWS_Security/IAM_Day_7_Class_4.pdf) |
+| Day | Date | Focus | Documentation | Resources |
+|---|---|---|---|---|
+| 1 | 3 November 2026 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/README.md) | [Class PDF](01_Cloud_Fundamentals/Cloud_Computing_Basics_and_AWS_Pricing.pdf) |
+| 2 | 4 November 2026 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Services/README.md) | [10 screenshots](02_AWS_Services/evidence/) |
+| 3 | 5 November 2026 | AWS Global Infrastructure | [View Day 3](03_AWS_Infrastructure/README.md) | [Class notes and PDF](03_AWS_Infrastructure/resources/) |
+| 7 | 9 November 2026 | IAM – Identity and Access Management (Class 4) | [View Day 7](07_AWS_Security/README.md) | [Study PDF](07_AWS_Security/IAM_Day_7_Class_4.pdf) |
 
 ## LinkedIn Posts
 
@@ -43,13 +43,13 @@ AWS-DevOps-Internship/
 
 ## Session Notes
 
-Day 1 includes a session README and class PDF covering cloud computing fundamentals, IaaS/PaaS/SaaS, AWS service categories, and AWS pricing basics.
+Day 1 (3 November 2026) includes a session README and class PDF covering cloud computing fundamentals, IaaS/PaaS/SaaS, AWS service categories, and AWS pricing basics.
 
-Day 2 includes practical screenshots documenting EC2 setup, security rules, SSH access, file transfer, Apache status, webpage deployment, and resource cleanup.
+Day 2 (4 November 2026) includes practical screenshots documenting EC2 setup, security rules, SSH access, file transfer, Apache status, webpage deployment, and resource cleanup.
 
-Day 3 includes class notes and a PDF covering AWS global infrastructure.
+Day 3 (5 November 2026) includes class notes and a PDF covering AWS global infrastructure.
 
-Day 7 (Class 4) contains learning documentation and the IAM study PDF only. No hands-on lab or implementation evidence is recorded for this session.
+Day 7 (9 November 2026, Class 4) contains learning documentation and the IAM study PDF only. No hands-on lab or implementation evidence is recorded for this session.
 
 ---
 

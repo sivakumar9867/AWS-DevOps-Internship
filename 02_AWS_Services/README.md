@@ -95,4 +95,4 @@ After evidence collection:
 
 ---
 
-*This documentation records the practical tasks performed during the Day 2 internship session on 4 November 2026.*
+*This documentation records the practical tasks performed during the Day 2 internship session.*

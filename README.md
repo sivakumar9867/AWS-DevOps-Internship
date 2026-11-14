@@ -23,6 +23,9 @@ A learning and project portfolio documenting topics covered and practical work c
 ```text
 AWS-DevOps-Internship/
 ├── 01_Cloud_Fundamentals/
+│   └── 01_Cloud_Computing_Basics_and_AWS_Pricing/
+│       ├── README.md
+│       └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
 ├── 02_AWS_Services/
 │   └── EC2_Web_Server_Deployment/
 │       ├── README.md
@@ -35,12 +38,14 @@ AWS-DevOps-Internship/
 │   └── IAM_Identity_and_Access_Management/
 │       ├── README.md
 │       └── resources/
-│           └── IAM_Identity_and_Access_Management_Day_7.pdf
+│           └── IAM_Day_7_Class_4.pdf
 ├── LinkedIn_Posts/
 └── README.md
 ```
 
 ## Session Notes
+
+Day 1 includes a session README and class PDF covering cloud computing fundamentals, IaaS/PaaS/SaaS, AWS service categories, and AWS pricing basics.
 
 Day 2 includes practical screenshots documenting EC2 setup, security rules, SSH access, file transfer, Apache status, webpage deployment, and resource cleanup.
 

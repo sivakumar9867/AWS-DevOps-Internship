@@ -14,7 +14,8 @@ A hands-on portfolio documenting practical work completed during my AWS & DevOps
 | Module | Focus | Documentation | Evidence |
 |---|---|---|---|
 | 01 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/README.md) | [Module files](01_Cloud_Fundamentals/01_Cloud_Computing_Basics_and_AWS_Pricing/) |
-| 02 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Core_Services/02_EC2_Web_Server_Deployment_and_File_Transfer/README.md) | [10 screenshots](02_AWS_Core_Services/02_EC2_Web_Server_Deployment_and_File_Transfer/evidence/) |
+| 02 | AWS Global Infrastructure | [View Class 3 notes](01_Cloud_Fundamentals/02_AWS_Global_Infrastructure/README.md) | [Module files](01_Cloud_Fundamentals/02_AWS_Global_Infrastructure/) |
+| 03 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Core_Services/02_EC2_Web_Server_Deployment_and_File_Transfer/README.md) | [10 screenshots](02_AWS_Core_Services/02_EC2_Web_Server_Deployment_and_File_Transfer/evidence/) |
 
 ## LinkedIn Posts
 
@@ -24,15 +25,19 @@ A hands-on portfolio documenting practical work completed during my AWS & DevOps
 - [Day 2 – EC2 Web Server Deployment & File Transfer](LinkedIn_Posts/Day_02.md)
 - [View published Day 2 LinkedIn post](https://lnkd.in/p/gKSxdrJq)
 - [Day 2 post copy](LinkedIn_Posts/Day_02_Post.md)
+- [Day 3 – AWS Global Infrastructure](LinkedIn_Posts/Day_03.md)
+- [Day 3 post draft](LinkedIn_Posts/Day_03_Post.md)
 
 ## Repository Structure
 
 ```text
 AWS-DevOps-Internship/
 ├── 01_Cloud_Fundamentals/
-│   └── 01_Cloud_Computing_Basics_and_AWS_Pricing/
-│       ├── README.md
-│       └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
+│   ├── 01_Cloud_Computing_Basics_and_AWS_Pricing/
+│   │   ├── README.md
+│   │   └── Cloud_Computing_Basics_and_AWS_Pricing.pdf
+│   └── 02_AWS_Global_Infrastructure/
+│       └── README.md
 ├── 02_AWS_Core_Services/
 │   └── 02_EC2_Web_Server_Deployment_and_File_Transfer/
 │       ├── README.md
@@ -51,7 +56,9 @@ AWS-DevOps-Internship/
 │   ├── Day_01.md
 │   ├── Day_01_Post.md
 │   ├── Day_02.md
-│   └── Day_02_Post.md
+│   ├── Day_02_Post.md
+│   ├── Day_03.md
+│   └── Day_03_Post.md
 └── README.md
 ```
 

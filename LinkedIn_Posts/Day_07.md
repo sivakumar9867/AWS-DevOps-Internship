@@ -2,7 +2,7 @@
 
 **Documentation:** [Open Day 7 IAM notes](../07_AWS_Security/IAM_Identity_and_Access_Management/README.md)
 
-**Study PDF:** [Download the Day 7 study notes](../07_AWS_Security/IAM_Identity_and_Access_Management/resources/IAM_Identity_and_Access_Management_Day_4.pdf)
+**Study PDF:** [Download the Day 7 study notes](../07_AWS_Security/IAM_Identity_and_Access_Management/resources/IAM_Identity_and_Access_Management_Day_7.pdf)
 
 **Practical guide:** [IAM user, group and EC2 read-only access](../07_AWS_Security/IAM_Identity_and_Access_Management/practical/IAM_Lab_Guide.md)
 

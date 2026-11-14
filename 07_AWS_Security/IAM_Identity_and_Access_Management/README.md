@@ -11,7 +11,7 @@ IAM (Identity and Access Management) decides who can log in to an AWS account an
 
 ## Study Resource
 
-- [Day 7 – Class 4 IAM study notes PDF](resources/IAM_Identity_and_Access_Management_Day_4.pdf)
+- [Day 7 – Class 4 IAM study notes PDF](resources/IAM_Identity_and_Access_Management_Day_7.pdf)
 
 The study notes were prepared from the supplied Class 4 handout and whiteboard reference. The original source handout and whiteboard image were used during preparation but are not included in this repository upload.
 

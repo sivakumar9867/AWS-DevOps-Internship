@@ -3,7 +3,7 @@
 **Internship:** AWS & DevOps Internship  
 **Internship Day:** 7  
 **Class Number:** 4  
-**Class date:** Thursday, 5 November 2026
+**Class date:** 9 November 2026
 
 ## Overview
 
@@ -46,4 +46,4 @@ Grant only the permissions required to perform a specific task. The class discus
 
 ---
 
-*This entry documents the learning content from Class 4. It does not claim that a practical lab or hands-on implementation was completed.*
+*This entry documents the learning content from Class 4 on 9 November 2026. It does not claim that a practical lab or hands-on implementation was completed.*

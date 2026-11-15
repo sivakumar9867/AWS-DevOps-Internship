@@ -44,6 +44,10 @@ Grant only the permissions required to perform a specific task. The class discus
 
 - [IAM – Day 7, Class 4 PDF](IAM_Day_7_Class_4.pdf)
 
+## LinkedIn Update
+
+- [View the Day 7 LinkedIn post](https://lnkd.in/p/g_PGHxsm)
+
 ---
 
 *This entry documents the learning content from Class 4. It does not claim that a practical lab or hands-on implementation was completed.*

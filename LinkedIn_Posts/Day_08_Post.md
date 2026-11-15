@@ -16,8 +16,6 @@ Today's session focused on Amazon EC2 and the concepts involved in launching and
 
 **Key learning:** I gained a clearer understanding of the decisions involved before launching an EC2 instance—from selecting an operating system and instance size to configuring access and choosing a pricing option. I also learned why key pairs and security group rules are important for secure access.
 
-This session was focused on concepts and the EC2 launch walkthrough. The hands-on launch was planned for the following class, so I am keeping the practical implementation separate from today's learning notes.
-
 Looking forward to applying these concepts in the upcoming practical session.
 
 #AWS #AmazonEC2 #CloudComputing #AWSDevOpsInternship #DevOps #CloudLearning #AWSCloud

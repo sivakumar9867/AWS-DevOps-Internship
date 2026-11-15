@@ -8,9 +8,9 @@ A learning and project portfolio documenting topics covered and practical work c
 |---|---|---|---|---|
 | 1 | 3 November 2026 | Cloud Computing Basics and AWS Pricing | [View Day 1](01_Cloud_Fundamentals/README.md) | [Class PDF](01_Cloud_Fundamentals/Cloud_Computing_Basics_and_AWS_Pricing.pdf) |
 | 2 | 4 November 2026 | EC2 Web Server Deployment and File Transfer | [View Day 2](02_AWS_Services/README.md) | [10 screenshots](02_AWS_Services/evidence/) |
-| 3 | 5 November 2026 | AWS Global Infrastructure | [View Day 3](03_AWS_Infrastructure/README.md) | [Class notes and PDF](03_AWS_Infrastructure/resources/) |
+| 3 | 5 November 2026 | AWS Global Infrastructure | [View Day 3](03_AWS_Infrastructure/README.md) | [Class PDF](03_AWS_Infrastructure/AWS_Global_Infrastructure_Day_3.pdf) |
 | 7 | 9 November 2026 | IAM – Identity and Access Management (Class 4) | [View Day 7](07_AWS_Security/README.md) | [Study PDF](07_AWS_Security/IAM_Day_7_Class_4.pdf) |
-| 8 | 10 November 2026 | EC2 Launch Concepts, Instance Types, Pricing and Security Groups | [View Day 8](08_EC2_Launch_Concepts/README.md) | [Resource notes](08_EC2_Launch_Concepts/resources/README.md) |
+| 8 | 10 November 2026 | EC2 Launch Concepts, Instance Types, Pricing and Security Groups | [View Day 8](08_EC2_Launch_Concepts/README.md) | [Class PDF](08_EC2_Launch_Concepts/EC2_Day_8.pdf) |
 
 ## LinkedIn Posts
 
@@ -28,12 +28,8 @@ AWS-DevOps-Internship/
 ├── 02_AWS_Services/
 │   └── evidence/
 ├── 03_AWS_Infrastructure/
-│   └── resources/
 ├── 07_AWS_Security/
 ├── 08_EC2_Launch_Concepts/
-│   ├── README.md
-│   └── resources/
-│       └── README.md
 ├── LinkedIn_Posts/
 └── README.md
 ```

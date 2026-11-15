@@ -86,7 +86,7 @@ Log in to the AWS console, switch the selected Region to Mumbai and then Singapo
 
 ## Class Material
 
-The original class notes and prepared learning PDF are available in the [resources folder](resources/).
+[Download the AWS Global Infrastructure – Day 3 PDF](AWS_Global_Infrastructure_Day_3.pdf)
 
 ---
 

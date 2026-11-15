@@ -164,7 +164,9 @@ These are the settings shown in the class guide, not a recommendation to use the
 
 ## Study Resource
 
-See [the Day 8 resource notes](resources/README.md) for details about the supplied class guide.
+[EC2 Launch Concepts – Day 8 PDF](EC2_Day_8.pdf)
+
+**Source note:** The supplied guide's cover labels the material “Day 02” and displays the date “2026-11-11”. This internship record follows the session details confirmed for Day 8, 10 November 2026; the source PDF itself has not been relabelled.
 
 ---
 

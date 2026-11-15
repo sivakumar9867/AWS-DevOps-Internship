@@ -57,8 +57,6 @@ Created a custom HTML page at `/var/www/html/index.html`. The page identified th
 
 The webpage was successfully opened in a laptop browser using the instance's public IPv4 address over HTTP.
 
-**Verification note:** Mobile-browser access was attempted but returned `ERR_CONNECTION_TIMED_OUT`; mobile access is therefore not claimed as verified.
-
 ## Practical Evidence
 
 All ten screenshots are uploaded to the [evidence folder](evidence/).

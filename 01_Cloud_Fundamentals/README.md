@@ -63,6 +63,3 @@ The class notes included a short quiz covering service models, inbound data tran
 
 [Cloud Computing Basics and AWS Pricing – PDF](Cloud_Computing_Basics_and_AWS_Pricing.pdf)
 
----
-
-*This entry documents the topics covered in the Class 1 material. It does not claim practical AWS deployments that were not part of this session.*

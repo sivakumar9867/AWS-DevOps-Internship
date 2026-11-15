@@ -88,6 +88,3 @@ Log in to the AWS console, switch the selected Region to Mumbai and then Singapo
 
 [Download the AWS Global Infrastructure – Day 3 PDF](AWS_Global_Infrastructure_Day_3.pdf)
 
----
-
-*Documentation prepared from the Class 3 notes supplied for the internship. The topics above reflect the class material; this entry does not claim a practical deployment.*

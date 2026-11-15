@@ -7,7 +7,7 @@
 
 ## Overview
 
-This was a learning session covering AWS Identity and Access Management (IAM). No hands-on lab was completed as part of this session.
+This session covered AWS Identity and Access Management (IAM).
 
 The session introduced how IAM controls who can access AWS resources and what actions they are permitted to perform.
 
@@ -48,6 +48,3 @@ Grant only the permissions required to perform a specific task. The class discus
 
 - [View the Day 7 LinkedIn post](https://lnkd.in/p/g_PGHxsm)
 
----
-
-*This entry documents the learning content from Class 4. It does not claim that a practical lab or hands-on implementation was completed.*

@@ -9,8 +9,6 @@
 
 This session introduced Amazon EC2 and the process of launching an EC2 instance. The class covered the eight launch steps, AMI choices, instance types and families, pricing categories, key pairs, security groups, and EC2 instance states.
 
-The supplied guide says the practical launch was planned for the next class. This README records the topics taught and does not claim that an EC2 launch was completed during this session.
-
 ## 1. What is an EC2 instance?
 
 An EC2 instance is a virtual server in the AWS cloud that provides CPU, RAM, storage, networking, and an operating system to run applications. EC2 belongs to the Compute category and is an example of Infrastructure as a Service (IaaS).
@@ -83,7 +81,7 @@ The class introduced these pricing categories:
 
 The trainer described On-Demand as allowing an instance to be launched immediately without advance reservation. Reserved options were discussed with upfront, partial-upfront, and no-upfront payment choices. Scheduled Reserved was explained as choosing when an instance runs. Dedicated Hosts and Dedicated Instances were also introduced.
 
-The guide described Spot Instances as lower-cost instances that can be interrupted. The percentages and descriptions in this section are reproduced as class notes, not independently verified current AWS pricing advice.
+The guide described Spot Instances as lower-cost instances that can be interrupted.
 
 ## 7. Key pairs for secure access
 
@@ -117,7 +115,7 @@ The console's Instance state menu can be used to stop, restart, or terminate an 
 
 ## 10. User data script shown in class
 
-The guide includes this web-server start-up script as an example seen on screen. It explicitly states that the trainer did not run it during this class.
+Example web-server start-up script:
 
 ```bash
 #!/bin/bash
@@ -140,7 +138,7 @@ echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.h
 | Private key format | .pem |
 | Security group example | HTTP, port 80, Anywhere IPv4 |
 
-These are the settings shown in the class guide, not a recommendation to use the same settings for every workload.
+
 
 ## Common mistakes highlighted in the guide
 
@@ -166,8 +164,3 @@ These are the settings shown in the class guide, not a recommendation to use the
 
 [EC2 Launch Concepts – Day 8 PDF](EC2_Day_8.pdf)
 
-**Source note:** The supplied guide's cover labels the material “Day 02” and displays the date “2026-11-11”. This internship record follows the session details confirmed for Day 8, 10 November 2026; the source PDF itself has not been relabelled.
-
----
-
-*This documentation is based on the supplied class guide. It records the theory and console walkthrough topics only; it does not state that the practical launch or user-data script was executed during this session.*

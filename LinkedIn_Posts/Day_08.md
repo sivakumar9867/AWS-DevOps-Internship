@@ -2,7 +2,7 @@
 
 **Technical documentation:** [Day 8 notes](../08_EC2_Launch_Concepts/README.md)
 
-**Class resource notes:** [View Day 8 resource details](../08_EC2_Launch_Concepts/resources/README.md)
+**Class PDF:** [View the Day 8 PDF](../08_EC2_Launch_Concepts/EC2_Day_8.pdf)
 
 This entry connects the Day 8 internship update with the EC2 concepts and class topics documented in this repository.
 

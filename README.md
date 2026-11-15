@@ -42,9 +42,9 @@ Day 2 documents the EC2 practical, including instance setup, security rules, SSH
 
 Day 3 covers AWS global infrastructure, including Regions, Availability Zones, and Edge Locations.
 
-Day 7 documents IAM concepts and the study material. No hands-on lab or implementation evidence is recorded for this session.
+Day 7 covers IAM concepts, users, groups, policies, roles, and the principle of least privilege.
 
-Day 8 covers the EC2 launch workflow, AMIs, instance types and families, pricing categories, key pairs, security groups, and instance states. The supplied class guide states that the practical launch was planned for the following class; no completed Day 8 launch is claimed here.
+Day 8 covers the EC2 launch workflow, AMIs, instance types and families, pricing categories, key pairs, security groups, and instance states.
 
 ---
 

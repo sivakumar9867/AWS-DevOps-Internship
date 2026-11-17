@@ -4,6 +4,6 @@
 
 **Class PDF:** [View the Day 8 PDF](../08_EC2_Launch_Concepts/EC2_Day_8.pdf)
 
-This entry connects the Day 8 internship update with the EC2 concepts and class topics documented in this repository.
+**Published LinkedIn post:** [View the Day 8 update](https://lnkd.in/p/gCVJ_KYq)
 
-**LinkedIn post:** Not published yet.
+This entry connects the Day 8 LinkedIn update with the EC2 concepts and class material documented in this repository.

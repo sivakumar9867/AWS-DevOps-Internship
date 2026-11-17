@@ -19,8 +19,8 @@ A learning and project portfolio documenting topics covered and practical work c
 - [Day 2 – EC2 Web Server Deployment & File Transfer](LinkedIn_Posts/Day_02.md) · [Published post](https://lnkd.in/p/gKSxdrJq) · [Post copy](LinkedIn_Posts/Day_02_Post.md)
 - [Day 3 – AWS Global Infrastructure](LinkedIn_Posts/Day_03.md) · [Published post](https://lnkd.in/p/gGZVW7sc) · [Post copy](LinkedIn_Posts/Day_03_Post.md)
 - [Day 7 – IAM: Identity and Access Management (Class 4)](LinkedIn_Posts/Day_07.md) · [Published post](https://lnkd.in/p/g_PGHxsm) · [Post copy](LinkedIn_Posts/Day_07_Post.md)
-- [Day 8 – EC2 Launch Concepts](LinkedIn_Posts/Day_08.md) · [Post draft](LinkedIn_Posts/Day_08_Post.md)
-- [Day 9 – IAM, MFA, Shared Responsibility Model and EC2 Basics](LinkedIn_Posts/Day_09.md) · [Post draft](LinkedIn_Posts/Day_09_Post.md)
+- [Day 8 – EC2 Launch Concepts](LinkedIn_Posts/Day_08.md) · [Published post](https://lnkd.in/p/gCVJ_KYq) · [Post copy](LinkedIn_Posts/Day_08_Post.md)
+- [Day 9 – IAM, MFA, Shared Responsibility Model and EC2 Basics](LinkedIn_Posts/Day_09.md) · [Published post](https://lnkd.in/p/gJUGmzRz) · [Post copy](LinkedIn_Posts/Day_09_Post.md)
 
 ## Repository Structure
 

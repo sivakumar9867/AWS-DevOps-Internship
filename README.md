@@ -12,6 +12,7 @@ A learning and project portfolio documenting topics covered and practical work c
 | 7 | 9 November 2026 | IAM – Identity and Access Management (Class 4) | [View Day 7](07_AWS_Security/README.md) | [Study PDF](07_AWS_Security/IAM_Day_7_Class_4.pdf) |
 | 8 | 10 November 2026 | EC2 Launch Concepts, Instance Types, Pricing and Security Groups | [View Day 8](08_EC2_Launch_Concepts/README.md) | [Class PDF](08_EC2_Launch_Concepts/EC2_Day_8.pdf) |
 | 9 | 11 November 2026 | IAM, MFA, Shared Responsibility Model and EC2 Basics | [View Day 9](09_AWS_Security_EC2_Basics/README.md) | [Study PDF](09_AWS_Security_EC2_Basics/Day_09_IAM_MFA_Shared_Responsibility_EC2_Basics.pdf) |
+| 10 | 12 November 2026 | EC2 Hands-On Lab: Apache, EBS Volumes and Snapshots | [View Day 10](10_EC2_Hands_On_Lab/README.md) | [Study PDF](10_EC2_Hands_On_Lab/Day_10_EC2_Hands_On_Lab_Apache_EBS_Snapshots.pdf) |
 
 ## LinkedIn Posts
 
@@ -21,6 +22,7 @@ A learning and project portfolio documenting topics covered and practical work c
 - [Day 7 – IAM: Identity and Access Management (Class 4)](LinkedIn_Posts/Day_07.md) · [Published post](https://lnkd.in/p/g_PGHxsm) · [Post copy](LinkedIn_Posts/Day_07_Post.md)
 - [Day 8 – EC2 Launch Concepts](LinkedIn_Posts/Day_08.md) · [Published post](https://lnkd.in/p/gCVJ_KYq) · [Post copy](LinkedIn_Posts/Day_08_Post.md)
 - [Day 9 – IAM, MFA, Shared Responsibility Model and EC2 Basics](LinkedIn_Posts/Day_09.md) · [Published post](https://lnkd.in/p/gJUGmzRz) · [Post copy](LinkedIn_Posts/Day_09_Post.md)
+- [Day 10 – EC2 Hands-On Lab: Apache, EBS Volumes and Snapshots](LinkedIn_Posts/Day_10.md) · [Post copy](LinkedIn_Posts/Day_10_Post.md)
 
 ## Repository Structure
 
@@ -33,8 +35,8 @@ AWS-DevOps-Internship/
 ├── 07_AWS_Security/
 ├── 08_EC2_Launch_Concepts/
 ├── 09_AWS_Security_EC2_Basics/
-├── LinkedIn_Posts/
-└── README.md
+├── 10_EC2_Hands_On_Lab/
+└── LinkedIn_Posts/
 ```
 
 ## Session Notes
@@ -50,6 +52,8 @@ Day 7 covers IAM concepts, users, groups, policies, roles, and the principle of 
 Day 8 covers the EC2 launch workflow, AMIs, instance types and families, pricing categories, key pairs, security groups, and instance states.
 
 Day 9 covers IAM components, least privilege, MFA, the AWS Shared Responsibility Model, encryption and KMS, managed services, AWS service categories, and EC2 fundamentals.
+
+Day 10 covers an EC2 hands-on lab, Apache deployment through User Data, HTTP access, EBS volumes, instance store, snapshots, and resource cleanup.
 
 ---
 

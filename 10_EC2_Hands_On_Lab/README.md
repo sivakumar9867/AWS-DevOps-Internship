@@ -27,4 +27,4 @@ This hands-on lab connected EC2 configuration, security group rules, launch-time
 
 ## Study Resource
 
-- [Day 10 EC2 Hands-On Lab PDF](Day_10_EC2_Hands_On_Lab_Apache_EBS_Snapshots.pdf)
+The Day 10 PDF study resource is prepared locally and included in the upload package. The PDF itself is not yet committed to this repository.

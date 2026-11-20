@@ -12,9 +12,9 @@ A learning and project portfolio documenting topics covered and practical work c
 | 7 | 9 November 2026 | IAM – Identity and Access Management (Class 4) | [View Day 7](07_AWS_Security/README.md) | [Study PDF](07_AWS_Security/IAM_Day_7_Class_4.pdf) |
 | 8 | 10 November 2026 | EC2 Launch Concepts, Instance Types, Pricing and Security Groups | [View Day 8](08_EC2_Launch_Concepts/README.md) | [Class PDF](08_EC2_Launch_Concepts/EC2_Day_8.pdf) |
 | 9 | 11 November 2026 | IAM, MFA, Shared Responsibility Model and EC2 Basics | [View Day 9](09_AWS_Security_EC2_Basics/README.md) | [Study PDF](09_AWS_Security_EC2_Basics/Day_09_IAM_MFA_Shared_Responsibility_EC2_Basics.pdf) |
-| 10 | 12 November 2026 | EC2 Hands-On Lab: Apache, EBS Volumes and Snapshots | [View Day 10](10_EC2_Hands_On_Lab/README.md) | Study PDF upload pending |
+| 10 | 12 November 2026 | EC2 Hands-On Lab: Apache, EBS Volumes and Snapshots | [View Day 10](10_EC2_Hands_On_Lab/README.md) | [Study PDF](10_EC2_Hands_On_Lab/Day_10_EC2_Apache_EBS_Learning_Notes.pdf) |
 
-## Mini Projects
+## Projects
 
 | Project | Focus | Documentation | Evidence |
 |---|---|---|---|

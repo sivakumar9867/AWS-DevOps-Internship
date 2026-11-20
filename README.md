@@ -14,6 +14,12 @@ A learning and project portfolio documenting topics covered and practical work c
 | 9 | 11 November 2026 | IAM, MFA, Shared Responsibility Model and EC2 Basics | [View Day 9](09_AWS_Security_EC2_Basics/README.md) | [Study PDF](09_AWS_Security_EC2_Basics/Day_09_IAM_MFA_Shared_Responsibility_EC2_Basics.pdf) |
 | 10 | 12 November 2026 | EC2 Hands-On Lab: Apache, EBS Volumes and Snapshots | [View Day 10](10_EC2_Hands_On_Lab/README.md) | Study PDF upload pending |
 
+## Mini Projects
+
+| Project | Focus | Documentation | Evidence |
+|---|---|---|---|
+| Mini Project 1 | AWS VPC Peering – private connectivity between two VPCs | [Project README](Mini_Project_1_AWS_VPC_Peering/README.md) | [Report and evidence folder](Mini_Project_1_AWS_VPC_Peering/evidence/) |
+
 ## LinkedIn Posts
 
 - [Day 1 – Cloud Computing Basics and AWS Pricing](LinkedIn_Posts/Day_01.md) · [Published post](https://lnkd.in/p/gR9t_mtx) · [Post copy](LinkedIn_Posts/Day_01_Post.md)
@@ -23,6 +29,7 @@ A learning and project portfolio documenting topics covered and practical work c
 - [Day 8 – EC2 Launch Concepts](LinkedIn_Posts/Day_08.md) · [Published post](https://lnkd.in/p/gCVJ_KYq) · [Post copy](LinkedIn_Posts/Day_08_Post.md)
 - [Day 9 – IAM, MFA, Shared Responsibility Model and EC2 Basics](LinkedIn_Posts/Day_09.md) · [Published post](https://lnkd.in/p/gJUGmzRz) · [Post copy](LinkedIn_Posts/Day_09_Post.md)
 - [Day 10 – EC2 Hands-On Lab: Apache, EBS Volumes and Snapshots](LinkedIn_Posts/Day_10.md) · [Post copy](LinkedIn_Posts/Day_10_Post.md)
+- [Mini Project 1 – AWS VPC Peering](LinkedIn_Posts/Mini_Project_1_AWS_VPC_Peering.md) · [Published post](https://lnkd.in/p/gMusnbMH)
 
 ## Repository Structure
 
@@ -36,6 +43,10 @@ AWS-DevOps-Internship/
 ├── 08_EC2_Launch_Concepts/
 ├── 09_AWS_Security_EC2_Basics/
 ├── 10_EC2_Hands_On_Lab/
+├── Mini_Project_1_AWS_VPC_Peering/
+│   ├── README.md
+│   └── evidence/
+│       └── README.md
 └── LinkedIn_Posts/
 ```
 
@@ -54,6 +65,8 @@ Day 8 covers the EC2 launch workflow, AMIs, instance types and families, pricing
 Day 9 covers IAM components, least privilege, MFA, the AWS Shared Responsibility Model, encryption and KMS, managed services, AWS service categories, and EC2 fundamentals.
 
 Day 10 covers an EC2 hands-on lab, Apache deployment through User Data, HTTP access, EBS volumes, instance store, snapshots, and resource cleanup.
+
+Mini Project 1 documents the design, implementation, verification, and cleanup of a VPC peering environment connecting two non-overlapping VPCs.
 
 ---
 

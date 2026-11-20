@@ -44,6 +44,7 @@ AWS-DevOps-Internship/
 ├── 09_AWS_Security_EC2_Basics/
 ├── 10_EC2_Hands_On_Lab/
 ├── Mini_Project_1/
+│   ├── EWB_VPC_Peering.pdf
 │   ├── README.md
 │   └── evidence/
 └── LinkedIn_Posts/

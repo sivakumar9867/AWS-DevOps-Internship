@@ -18,7 +18,7 @@ A learning and project portfolio documenting topics covered and practical work c
 
 | Project | Focus | Documentation | Evidence |
 |---|---|---|---|
-| Mini Project 1 | AWS VPC Peering – private connectivity between two VPCs | [Project README](Mini_Project_1_AWS_VPC_Peering/README.md) | [Report and evidence folder](Mini_Project_1_AWS_VPC_Peering/evidence/) |
+| Mini Project 1 | AWS VPC Peering – private connectivity between two VPCs | [Project README](Mini_Project_1/README.md) | [Report and evidence folder](Mini_Project_1/evidence/) |
 
 ## LinkedIn Posts
 
@@ -29,7 +29,7 @@ A learning and project portfolio documenting topics covered and practical work c
 - [Day 8 – EC2 Launch Concepts](LinkedIn_Posts/Day_08.md) · [Published post](https://lnkd.in/p/gCVJ_KYq) · [Post copy](LinkedIn_Posts/Day_08_Post.md)
 - [Day 9 – IAM, MFA, Shared Responsibility Model and EC2 Basics](LinkedIn_Posts/Day_09.md) · [Published post](https://lnkd.in/p/gJUGmzRz) · [Post copy](LinkedIn_Posts/Day_09_Post.md)
 - [Day 10 – EC2 Hands-On Lab: Apache, EBS Volumes and Snapshots](LinkedIn_Posts/Day_10.md) · [Post copy](LinkedIn_Posts/Day_10_Post.md)
-- [Mini Project 1 – AWS VPC Peering](LinkedIn_Posts/Mini_Project_1_AWS_VPC_Peering.md) · [Published post](https://lnkd.in/p/gMusnbMH)
+- [Mini Project 1 – AWS VPC Peering](LinkedIn_Posts/Mini_Project_1.md) · [Published post](https://lnkd.in/p/gMusnbMH) · [Post copy](LinkedIn_Posts/Mini_Project_1_Post.md)
 
 ## Repository Structure
 
@@ -43,10 +43,9 @@ AWS-DevOps-Internship/
 ├── 08_EC2_Launch_Concepts/
 ├── 09_AWS_Security_EC2_Basics/
 ├── 10_EC2_Hands_On_Lab/
-├── Mini_Project_1_AWS_VPC_Peering/
+├── Mini_Project_1/
 │   ├── README.md
 │   └── evidence/
-│       └── README.md
 └── LinkedIn_Posts/
 ```
 
